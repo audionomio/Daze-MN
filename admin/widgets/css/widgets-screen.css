@@ -1,0 +1,70 @@
+/* ==============================================
+	WIDGETS SCREEN STYLES
+	Daze - Premium WordPress Theme, by NordWood
+================================================= */	
+	.clearfix:after {
+		display: table; clear: both;
+		content: "";
+	}
+	
+	.daze-widget {
+		border-left: 3px solid #ff2955;
+		text-transform: uppercase;
+	}
+	
+	.daze-mark {
+		color: #ff2955;
+	}
+	
+	.daze-special {
+		position: relative; overflow: visible;
+	}
+	
+	.daze-special:before {
+		position: absolute; right: -0.2em; top: -0.4em;
+		color: #ff2955;
+		font-size: 12px; font-weight: 400;
+		font-family: Georgia;
+		line-height: 1em;
+		content: '\2605';
+	}
+	
+	.daze-widgets-help {
+		clear: both;
+		display: inline-block;
+		margin-top: 50px; padding: 0 16px 16px;
+		background: #ececec;
+	}
+	
+	.daze-widgets-help h3 {
+		margin: 1.5em 0 1em;
+		text-transform: uppercase;
+	}
+	
+	.daze-widgets-help h4 {
+		margin: 0 0 0.5em; padding-left: 0.5em;
+		text-transform: uppercase;
+	}
+	
+	.daze-widgets-help .positions {
+		display: inline-block;
+		clear: left; float: left;
+		max-width: 100%; height: auto;
+		margin-top: 20px;
+	}
+	
+	.daze-widgets-help img {
+		display: block;
+		max-width: 100%; height: auto;
+	}
+	
+@media only screen and (min-width: 1180px) {
+	.daze-widgets-help .positions {
+		clear: none;
+		max-width: 49%;
+	}
+	
+	.daze-widgets-help .positions:not(:first-of-type) {
+		margin-left: 2%;
+	}
+}

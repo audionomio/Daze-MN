@@ -1,0 +1,125 @@
+/* =================================================
+	Styles for Popular/Latest posts widget
+	Daze - Premium WordPress Theme, by NordWood
+==================================================== */
+	.top-posts h3 {
+		margin-bottom: 1em;
+	}
+
+	.top-posts-slider article {
+		display: block; margin-bottom: 1em; overflow: hidden;
+	}
+
+	.top-posts-slider article:last-child {
+		margin-bottom: 0;
+	}
+
+	.top-posts-slider .thumb {
+		width: 100px; height: 100px; margin: 0 auto 1em;
+		text-align: center; background: #e8e8e8;
+		transition: all 0.4s ease;
+	}
+
+	.top-posts-slider .thumb img {
+		width: 100%; height: auto; display: block;
+	}
+
+	.top-posts-slider .thumb a {
+		display: inline-block; height: 100%;
+	}
+
+	.top-posts-slider .thumb svg {
+		display: inline-block; vertical-align: middle;
+		width: 3em; height: 3em;
+	}
+
+	.top-posts-slider article:hover .thumb {
+		-webkit-filter: grayscale(50%);
+		-moz-filter: grayscale(50%);
+		filter: grayscale(50%);
+	}	
+
+	.top-posts-slider header a {
+		display: block;
+	}
+
+	.top-posts-slider header h5 {
+		line-height: 1.2em;
+	}
+
+	.top-posts-slider h5:hover,
+	.top-posts-slider h5:active {
+		color: #3e3e3e;
+	}
+
+	.top-posts-slider .content {
+		text-align: center;
+	}
+
+	.top-posts-slider footer {
+		border-bottom: 1px solid #e8e8e8; margin-top: 1em; padding-bottom: 6px;
+	}
+
+	.top-posts-slider footer span {
+		display: inline-block; vertical-align: middle;
+		font-size: 11px; line-height: 1em;
+	}
+
+	.top-posts-slider .slick-slide {
+		border: none !important; outline: none !important;
+	}
+
+	.top-posts .slick-dots {
+		text-align: center;
+	}
+
+	.top-posts .slick-dots li {
+		display: inline-block;
+	}
+
+	.top-posts .slick-dots h3 {
+		cursor: pointer; padding: 0 0.3em; color: #c9c9c9; font-weight: 700;
+	}
+
+	.top-posts .slick-dots li:first-child h3 {
+		padding-left: 0;
+	}
+
+	.top-posts .slick-active h3 {
+		color: #111;
+	}
+	
+@media only screen and (min-width:360px) {
+	.top-posts-slider .thumb {
+		display: inline-block; float: left; margin: 0;
+	}
+	
+	.masonry-item .top-posts-slider .thumb {
+		width: 84px; height: 84px;
+	}
+	
+	.top-posts-slider .content {
+		display: inline-block; float: right; position: relative;
+		width: 200px; height: 100px; overflow: hidden;
+		text-align: left;
+	}
+	
+	.masonry-item .top-posts-slider .content {
+		width: calc(100% - 84px - 20px); height: 84px;
+	}
+	
+	.top-posts-slider footer {
+		position: absolute; right: 0; bottom: 0; width: 100%;
+		margin-top: 0;
+	}
+	
+	.top-posts .slick-dots {
+		text-align: left;
+	}
+}
+	
+@media only screen and (min-width:768px) {
+	.top-posts-slider header h5 {
+		line-height: 1.4em;
+	}
+}

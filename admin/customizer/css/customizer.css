@@ -1,0 +1,109 @@
+/* ==========================================================================
+	Customizer styles in admin panel
+	Daze - Premium WordPress Theme, by NordWood
+========================================================================== */
+	.va-middle {
+		vertical-align: middle; overflow: hidden;
+	}
+
+	.va-middle:after {
+		display: inline-block;
+		height: 100%; vertical-align: middle;
+		content: "";
+	}
+
+	.clearfix:after {
+		display: table; clear: both; content: "";
+	}
+	
+	.customize-control,
+	.customize-control .title,
+	.customize-control-description {
+		margin: 0 0 1em 0;
+	}
+
+	.customize-control h3 {
+		margin: 2em 0 1em;
+	}
+
+	.customize-control-text {
+		margin-bottom: 1em;
+	}
+
+	.customize-control-text:empty,
+	.customize-control-description:empty {
+		margin: 0;
+	}
+	
+/* Social profiles and sharing links controls */
+	.daze-sharing-links-choices,
+	.daze-social-profiles-choices {
+		position: relative;
+		border-top: 1px solid #ccc; border-left: 1px solid #ccc;
+		width: 100%;
+	}
+	
+	.daze-sharing-links-icon,
+	.daze-social-profiles-icon {
+		display: inline-block; float: left;
+		width: 42px; height: 42px;
+		line-height: 42px; vertical-align: middle;
+		border-right: 1px solid #ccc; border-bottom: 1px solid #ccc;
+		background: #fff;
+		text-align: center;
+		cursor: pointer;
+	}
+	
+	.daze-sharing-links-icon svg,
+	.daze-social-profiles-icon svg {
+		width: 18px; height: 14px;
+	}
+	
+	.daze-sharing-links-icon:not([data-is-active='on']) circle,
+	.daze-sharing-links-icon:not([data-is-active='on']) rect,
+	.daze-sharing-links-icon:not([data-is-active='on']) polygon,
+	.daze-sharing-links-icon:not([data-is-active='on']) path,
+	.daze-social-profiles-icon:not([data-has-profile='active']) circle,
+	.daze-social-profiles-icon:not([data-has-profile='active']) rect,
+	.daze-social-profiles-icon:not([data-has-profile='active']) polygon,
+	.daze-social-profiles-icon:not([data-has-profile='active']) path {
+		fill: rgba( 0, 0, 0, 0.2 );
+	}
+	
+	.daze-social-profiles-popout {
+		display: none;
+		position: absolute; left: -1px; top: -1px; z-index: 1;
+		width: calc(100% + 1px); height: calc(100% + 1px); padding: 20px;
+		box-sizing: border-box;
+		background: #fff;
+	}
+	
+	.daze-social-profiles-popout label {
+		display: block;
+		padding-bottom: 20px;
+		font-weight: 600; font-size: 15px;
+	}
+	
+	.daze-social-profiles-popout textarea {
+		width: 100%;
+	}
+	
+	.daze-social-profiles-popout .daze-close-button {
+		position: absolute; top: -8px; right: -8px; z-index: 2;
+		display: inline-block; width: 24px; height: 24px;
+		line-height: 20px; vertical-align: middle;
+		background: #fff;
+		border: 1px solid #aaa;
+		border-radius: 50%;
+		text-align: center;
+		cursor: pointer;
+	}
+	
+	.daze-social-profiles-popout .daze-close-button svg {
+		display: inline-block; vertical-align: middle;
+		width: 10px; height: 10px;
+	}
+	
+	.daze-social-profiles-popout .daze-close-button .svg-fill {
+		fill: #bbb;
+	}

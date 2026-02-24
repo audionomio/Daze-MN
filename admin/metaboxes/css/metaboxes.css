@@ -1,0 +1,61 @@
+/* ===================================================
+	Custom fields and metaboxes styles in admin area
+	Daze - Premium WordPress Theme, by NordWood
+====================================================== */
+	.daze-metabox-section.daze-pages-contact {
+		display: none;
+	}
+
+	.daze-metabox-section {
+		margin-bottom: 1em;
+	}
+
+	.daze-metabox-section h5,
+	.daze-metabox-section h6 {
+		margin-bottom: 0.5em;
+		font-weight: 600;
+	}
+
+	.daze-metabox-section h4 {
+		font-size: 1.3em;
+	}
+
+	.daze-metabox-section h5 {
+		font-size: 1.1em;
+	}
+
+	.daze-metabox-section h6 {
+		font-size: 0.94em;
+	}
+
+	.daze-metabox-section .small {
+		font-size: 12px;
+	}
+
+	.daze-metabox-section fieldset {
+		display: block; margin-top: 1em;
+	}
+
+	.daze-metabox-section fieldset:after {
+		display: table; clear: both; content: "";
+	}
+
+	.daze-metabox-section label {
+		display: block; margin-top: 1em;
+	}
+
+	.daze-metabox-section label h5 {
+		margin: 0;
+	}
+
+	.daze-metabox-section input[type="checkbox"] + label {
+		display: inline-block; margin: 0 2em 0 0; vertical-align: middle;
+	}
+
+	.daze-metabox-section input[type="checkbox"] {
+		margin: 0;
+	}
+
+	.daze-metabox-section input[type="text"] {
+		margin-bottom: 1em;
+	}
