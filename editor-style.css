@@ -1,0 +1,127 @@
+/* ==============================================
+	Editor styles
+	Daze - Premium WordPress Theme, by NordWood
+================================================= */
+	body.wp-editor {
+		color: #313131;
+		font-family: 'Poppins', sans-serif; font-weight: 300; font-size: 14px;
+	}
+
+	.wp-editor h1,
+	.wp-editor h2,
+	.wp-editor h3,
+	.wp-editor h4,
+	.wp-editor h5,
+	.wp-editor h6 {
+		font-weight: 700; color: #111;
+	}
+
+	.wp-editor h1 {
+		font-size: 2em; line-height: 1.2em;
+	}
+
+	.wp-editor h2 {
+		font-size: 1.8em; line-height: 1.2em;
+	}
+
+	.wp-editor h3 {
+		font-size: 1.4em; line-height: 1.2em;
+	}
+
+	.wp-editor h4 {
+		font-size: 1.3em; line-height: 1.2em;
+	}
+
+	.wp-editor h5 {
+		font-size: 1.1em; line-height: 1.2em;
+	}
+
+	.wp-editor h6 {
+		font-size: 0.86em; font-weight: 600;
+	}
+
+	.wp-editor a {
+		color: #ff2955;
+	}
+
+	.wp-editor blockquote { 
+		position: relative;	overflow: hidden;
+		border-top: 1px solid #e8e8e8; border-bottom: 1px solid #e8e8e8; padding: 2em 0 2em 4em;
+		font-size: 1.1em; font-weight: 700;
+	}
+
+	.wp-editor blockquote:before {
+		position: absolute; top: 0.14em; left: 0;
+		font-size: 6em; color: #d6d6d6; content:"\201D";
+	}
+
+	.wp-editor blockquote cite:before,
+	.wp-editor blockquote small:before {
+		content: "\2014\00a0";
+	}
+
+	.wp-editor blockquote > :last-child { 
+		margin-bottom: 0;
+	}
+
+	.wp-editor blockquote p,
+	.wp-editor q p {
+		display: inline;
+	}
+
+	.wp-editor ::selection {
+		background: #e8e8e8;
+	}
+
+	.wp-editor ::-moz-selection {
+		background: #e8e8e8;
+	}
+
+	.wp-editor ::-webkit-selection {
+		background: #e8e8e8;
+	}
+
+	.wp-editor ol,
+	.wp-editor ul {
+		list-style-position: outside; margin: 0 1em 2em 1em;
+	}
+
+	.wp-editor ol {
+		list-style-type: decimal;
+	}
+
+	.wp-editor ul {
+		list-style-type: square; 
+	}
+
+	.wp-editor li {
+		margin-bottom: 0.75em;
+	}
+
+	.wp-editor li span {
+		display: inline-block; vertical-align: top;
+		color: #313131;
+	}
+
+	.wp-editor h5 {
+		line-height: 1.7em;
+	}
+
+	.wp-editor table {
+		margin-bottom: 2em;
+	}
+
+	.wp-editor table thead th {
+		padding-bottom: 10px;
+		border-bottom: 1px solid #e8e8e8;
+		font-weight: 600;
+	}
+
+	.wp-editor table td {
+		padding-top: 10px;
+	}
+
+	.wp-editor table th:not(:last-of-type),
+	.wp-editor table td:not(:last-of-type) {
+		padding-right: 20px;
+	}

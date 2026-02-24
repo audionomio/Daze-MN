@@ -1,0 +1,2110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Daze 4.1\n"
+"POT-Creation-Date: 2019-05-16 14:48+0200\n"
+"PO-Revision-Date: 2019-05-16 14:48+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x;_n;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:10 admin/customizer/page_404.php:21 admin/customizer/page_404.php:30
+msgid "404 error"
+msgstr ""
+
+#: 404.php:14 admin/customizer/page_404.php:53 admin/customizer/page_404.php:60
+msgid "Oops! This page is not here anymore..."
+msgstr ""
+
+#: 404.php:23 admin/customizer/page_404.php:107
+#: admin/customizer/page_404.php:116 admin/customizer/page_404.php:130
+msgid "Back to home"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:14
+msgid "Tag"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:25
+#: admin/customizer/archives_layout.php:166
+#: admin/customizer/archives_layout.php:308
+#: admin/customizer/archives_layout.php:449
+#: admin/customizer/archives_layout.php:589
+#: admin/customizer/archives_layout.php:731
+msgid "Customize"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:40
+#: admin/customizer/archives_layout.php:181
+#: admin/customizer/archives_layout.php:323
+#: admin/customizer/archives_layout.php:464
+#: admin/customizer/archives_layout.php:604
+#: admin/customizer/archives_layout.php:746 admin/customizer/blog_layout.php:15
+msgid "Layout type"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:45
+#: admin/customizer/archives_layout.php:186
+#: admin/customizer/archives_layout.php:328
+#: admin/customizer/archives_layout.php:469
+#: admin/customizer/archives_layout.php:609
+#: admin/customizer/archives_layout.php:751
+msgid "Pinterest (masonry) list"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:46
+#: admin/customizer/archives_layout.php:187
+#: admin/customizer/archives_layout.php:329
+#: admin/customizer/archives_layout.php:470
+#: admin/customizer/archives_layout.php:610
+#: admin/customizer/archives_layout.php:752 admin/customizer/blog_layout.php:21
+msgid "Minimalist (image only) list"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:47
+#: admin/customizer/archives_layout.php:188
+#: admin/customizer/archives_layout.php:330
+#: admin/customizer/archives_layout.php:471
+#: admin/customizer/archives_layout.php:611
+#: admin/customizer/archives_layout.php:753
+msgid "Tiny list"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:48
+#: admin/customizer/archives_layout.php:189
+#: admin/customizer/archives_layout.php:331
+#: admin/customizer/archives_layout.php:472
+#: admin/customizer/archives_layout.php:612
+#: admin/customizer/archives_layout.php:754 admin/customizer/blog_layout.php:22
+msgid "Standard list"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:61
+#: admin/customizer/archives_layout.php:203
+#: admin/customizer/archives_layout.php:345
+#: admin/customizer/archives_layout.php:485
+#: admin/customizer/archives_layout.php:626
+#: admin/customizer/archives_layout.php:768 admin/customizer/blog_layout.php:55
+msgid "Layout width"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:66
+#: admin/customizer/archives_layout.php:208
+#: admin/customizer/archives_layout.php:350
+#: admin/customizer/archives_layout.php:490
+#: admin/customizer/archives_layout.php:631
+#: admin/customizer/archives_layout.php:773 admin/customizer/blog_layout.php:60
+msgid "Full width grid"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:67
+#: admin/customizer/archives_layout.php:209
+#: admin/customizer/archives_layout.php:351
+#: admin/customizer/archives_layout.php:491
+#: admin/customizer/archives_layout.php:632
+#: admin/customizer/archives_layout.php:774 admin/customizer/blog_layout.php:61
+msgid "Narrow grid"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:81
+#: admin/customizer/archives_layout.php:100
+#: admin/customizer/archives_layout.php:223
+#: admin/customizer/archives_layout.php:242
+#: admin/customizer/archives_layout.php:364
+#: admin/customizer/archives_layout.php:383
+#: admin/customizer/archives_layout.php:505
+#: admin/customizer/archives_layout.php:524
+#: admin/customizer/archives_layout.php:646
+#: admin/customizer/archives_layout.php:665
+#: admin/customizer/archives_layout.php:788
+#: admin/customizer/archives_layout.php:807 admin/customizer/blog_layout.php:75
+#: admin/customizer/blog_layout.php:94
+msgid "Number of columns"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:86
+#: admin/customizer/archives_layout.php:228
+#: admin/customizer/archives_layout.php:369
+#: admin/customizer/archives_layout.php:510
+#: admin/customizer/archives_layout.php:651
+#: admin/customizer/archives_layout.php:793 admin/customizer/blog_layout.php:80
+msgid "2"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:87
+#: admin/customizer/archives_layout.php:229
+#: admin/customizer/archives_layout.php:370
+#: admin/customizer/archives_layout.php:511
+#: admin/customizer/archives_layout.php:652
+#: admin/customizer/archives_layout.php:794 admin/customizer/blog_layout.php:81
+#: admin/customizer/special_boxes.php:44 admin/customizer/special_boxes.php:51
+#: admin/customizer/special_boxes.php:139
+#: admin/customizer/special_boxes.php:146
+#: admin/customizer/special_boxes.php:234
+#: admin/customizer/special_boxes.php:241
+#: admin/customizer/special_boxes.php:329
+#: admin/customizer/special_boxes.php:336
+#: admin/customizer/special_boxes.php:424
+#: admin/customizer/special_boxes.php:431
+#: admin/customizer/special_boxes.php:517
+#: admin/customizer/special_boxes.php:524
+#: admin/customizer/special_boxes.php:642
+#: admin/customizer/special_boxes.php:649
+#: admin/customizer/special_boxes.php:823
+#: admin/customizer/special_boxes.php:830
+msgid "3"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:105
+#: admin/customizer/archives_layout.php:247
+#: admin/customizer/archives_layout.php:388
+#: admin/customizer/archives_layout.php:529
+#: admin/customizer/archives_layout.php:670
+#: admin/customizer/archives_layout.php:812 admin/customizer/blog_layout.php:99
+#: admin/customizer/special_boxes.php:680
+#: admin/customizer/special_boxes.php:687
+#: admin/customizer/special_boxes.php:861
+#: admin/customizer/special_boxes.php:868
+msgid "4"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:106
+#: admin/customizer/archives_layout.php:248
+#: admin/customizer/archives_layout.php:389
+#: admin/customizer/archives_layout.php:530
+#: admin/customizer/archives_layout.php:671
+#: admin/customizer/archives_layout.php:813
+#: admin/customizer/blog_layout.php:100 admin/customizer/color_scheme.php:25
+#: admin/customizer/color_scheme.php:33 admin/customizer/special_boxes.php:63
+#: admin/customizer/special_boxes.php:70 admin/customizer/special_boxes.php:158
+#: admin/customizer/special_boxes.php:165
+#: admin/customizer/special_boxes.php:253
+#: admin/customizer/special_boxes.php:260
+#: admin/customizer/special_boxes.php:348
+#: admin/customizer/special_boxes.php:355
+#: admin/customizer/special_boxes.php:443
+#: admin/customizer/special_boxes.php:450
+#: admin/customizer/special_boxes.php:536
+#: admin/customizer/special_boxes.php:543
+#: admin/customizer/special_boxes.php:661
+#: admin/customizer/special_boxes.php:668
+#: admin/customizer/special_boxes.php:842
+#: admin/customizer/special_boxes.php:849
+msgid "5"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:120
+#: admin/customizer/archives_layout.php:262
+#: admin/customizer/archives_layout.php:403
+#: admin/customizer/archives_layout.php:544
+#: admin/customizer/archives_layout.php:685
+#: admin/customizer/archives_layout.php:827
+#: admin/customizer/blog_layout.php:114 admin/customizer/single_posts.php:28
+#: admin/metaboxes/custom-fields.php:141
+msgid "Include sidebar"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:136
+#: admin/customizer/archives_layout.php:278
+#: admin/customizer/archives_layout.php:419
+#: admin/customizer/archives_layout.php:559
+#: admin/customizer/archives_layout.php:701
+#: admin/customizer/archives_layout.php:843
+#: admin/customizer/blog_layout.php:151
+msgid "Pagination type"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:141
+#: admin/customizer/archives_layout.php:283
+#: admin/customizer/archives_layout.php:424
+#: admin/customizer/archives_layout.php:564
+#: admin/customizer/archives_layout.php:706
+#: admin/customizer/archives_layout.php:848
+#: admin/customizer/blog_layout.php:156
+msgid "Infinite scroll"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:142
+#: admin/customizer/archives_layout.php:284
+#: admin/customizer/archives_layout.php:425
+#: admin/customizer/archives_layout.php:565
+#: admin/customizer/archives_layout.php:707
+#: admin/customizer/archives_layout.php:849
+#: admin/customizer/blog_layout.php:157
+msgid "Standard pagination"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:155
+msgid "Date"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:297
+msgid "Author"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:438
+msgid "Category"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:578
+#: admin/customizer/site_header.php:162 admin/customizer/site_header.php:169
+#: inc/template-tags.php:848
+msgid "Search"
+msgstr ""
+
+#: admin/customizer/archives_layout.php:720
+msgid "Other archives"
+msgstr ""
+
+#: admin/customizer/blog_layout.php:20
+msgid "Pinterest (Masonry) list"
+msgstr ""
+
+#: admin/customizer/blog_layout.php:35
+msgid "Post length"
+msgstr ""
+
+#: admin/customizer/blog_layout.php:40
+msgid "Excerpts"
+msgstr ""
+
+#: admin/customizer/blog_layout.php:41
+msgid "Full posts"
+msgstr ""
+
+#: admin/customizer/blog_layout.php:130
+msgid "Latest post"
+msgstr ""
+
+#: admin/customizer/blog_layout.php:135
+msgid "Enlarge and show full post"
+msgstr ""
+
+#: admin/customizer/blog_layout.php:136
+msgid "Enlarge and show excerpt"
+msgstr ""
+
+#: admin/customizer/blog_layout.php:137
+msgid "Do nothing"
+msgstr ""
+
+#: admin/customizer/blog_layout.php:169
+msgid "Exclude posts by category"
+msgstr ""
+
+#: admin/customizer/blog_layout.php:170
+msgid "Use category ID. For multiple categories, separate ids with comma"
+msgstr ""
+
+#: admin/customizer/blog_layout.php:185
+msgid "Hide Read More button"
+msgstr ""
+
+#: admin/customizer/blog_layout.php:195 admin/customizer/blog_layout.php:203
+msgid "55"
+msgstr ""
+
+#: admin/customizer/blog_layout.php:200
+msgid "Auto excerpt word count:"
+msgstr ""
+
+#: admin/customizer/blog_layout.php:201
+msgid "Applied when Excerpt field is empty and no \"more\" tag is used."
+msgstr ""
+
+#: admin/customizer/blog_layout.php:217
+msgid "Animations and effects"
+msgstr ""
+
+#: admin/customizer/blog_layout.php:218
+msgid ""
+"Check the option below if you want to turn off the 'dropping' animation on "
+"masonry items and remove delay between their loads. This applies to all blog "
+"pages (including search and archives), if masonry is chosen as layout type."
+msgstr ""
+
+#: admin/customizer/blog_layout.php:230
+msgid "Turn off animation and delay"
+msgstr ""
+
+#: admin/customizer/color_scheme.php:16
+msgid "Site frame color"
+msgstr ""
+
+#: admin/customizer/color_scheme.php:30
+msgid "Site frame width (for mobiles):"
+msgstr ""
+
+#: admin/customizer/color_scheme.php:31 admin/customizer/color_scheme.php:49
+msgid "in pixels"
+msgstr ""
+
+#: admin/customizer/color_scheme.php:43 admin/customizer/color_scheme.php:51
+msgid "7"
+msgstr ""
+
+#: admin/customizer/color_scheme.php:48
+msgid "Site frame width (for desktop):"
+msgstr ""
+
+#: admin/customizer/color_scheme.php:67
+msgid "Links"
+msgstr ""
+
+#: admin/customizer/color_scheme.php:68
+msgid "Used also for buttons text, pagination, tagcloud and category count"
+msgstr ""
+
+#: admin/customizer/color_scheme.php:82
+msgid "Other"
+msgstr ""
+
+#: admin/customizer/color_scheme.php:83
+msgid ""
+"Used for dots in calendar widget and lists, drop-caps underline, close "
+"button on popout, sticky post badge."
+msgstr ""
+
+#: admin/customizer/color_scheme.php:96
+msgid "Holder pattern"
+msgstr ""
+
+#: admin/customizer/color_scheme.php:97
+msgid ""
+"It will be used as background in the search area, on Pinterest list and also "
+"in the posts slider, if no image is uploaded."
+msgstr ""
+
+#: admin/customizer/color_scheme.php:111
+msgid "Holder color"
+msgstr ""
+
+#: admin/customizer/color_scheme.php:112
+msgid "It will be used if no image pattern is uploaded."
+msgstr ""
+
+#: admin/customizer/color_scheme.php:127
+msgid "Search text color"
+msgstr ""
+
+#: admin/customizer/customizer.php:109
+msgid "For the users who switched from Daze 2.1 or older version: "
+msgstr ""
+
+#: admin/customizer/customizer.php:109
+msgid ""
+"Click the button below to import your profiles that were saved in old fields."
+msgstr ""
+
+#: admin/customizer/customizer.php:121
+msgid "Import saved profiles"
+msgstr ""
+
+#: admin/customizer/customizer.php:210
+msgid "Static front page"
+msgstr ""
+
+#: admin/customizer/customizer.php:214
+msgid "Site identity"
+msgstr ""
+
+#: admin/customizer/customizer.php:221
+msgid "Daze header & top bar"
+msgstr ""
+
+#: admin/customizer/customizer.php:229
+msgid "Daze blog layout"
+msgstr ""
+
+#: admin/customizer/customizer.php:237
+msgid "Daze archives layouts"
+msgstr ""
+
+#: admin/customizer/customizer.php:245
+msgid "Daze special boxes"
+msgstr ""
+
+#: admin/customizer/customizer.php:246
+msgid "Important: Available only on Pinterest/Masonry list"
+msgstr ""
+
+#: admin/customizer/customizer.php:254
+msgid "Daze single posts"
+msgstr ""
+
+#: admin/customizer/customizer.php:262 admin/metaboxes/custom-fields.php:383
+msgid "Daze posts slider"
+msgstr ""
+
+#: admin/customizer/customizer.php:269
+msgid "Daze color scheme"
+msgstr ""
+
+#: admin/customizer/customizer.php:270
+msgid "Header text color"
+msgstr ""
+
+#: admin/customizer/customizer.php:271
+msgid "Background color"
+msgstr ""
+
+#: admin/customizer/customizer.php:279
+msgid "Daze social"
+msgstr ""
+
+#: admin/customizer/customizer.php:287
+msgid "Daze sticky banner"
+msgstr ""
+
+#: admin/customizer/customizer.php:295
+msgid "Daze page 404"
+msgstr ""
+
+#: admin/customizer/customizer.php:303 admin/welcome/welcome.php:76
+msgid "Daze optimization"
+msgstr ""
+
+#: admin/customizer/optimization.php:14
+msgid ""
+"This section includes a few basic controls for site optimization. To learn "
+"more about how these options work and when you should use them, please read "
+"the documentation provided with Daze."
+msgstr ""
+
+#: admin/customizer/optimization.php:26
+msgid "Disable WordPress Emojis"
+msgstr ""
+
+#: admin/customizer/optimization.php:41
+msgid "Minify dynamic inline css"
+msgstr ""
+
+#: admin/customizer/optimization.php:56
+msgid "Remove query string from static files"
+msgstr ""
+
+#: admin/customizer/page_404.php:14
+msgid "Background image"
+msgstr ""
+
+#: admin/customizer/page_404.php:28
+msgid "Short description"
+msgstr ""
+
+#: admin/customizer/page_404.php:58
+msgid "Custom error message"
+msgstr ""
+
+#: admin/customizer/page_404.php:87
+msgid "Additional text:"
+msgstr ""
+
+#: admin/customizer/page_404.php:114
+msgid "Back to home button text"
+msgstr ""
+
+#: admin/customizer/posts_slider.php:15 admin/customizer/social_sharing.php:170
+#: admin/customizer/special_boxes.php:34 admin/customizer/special_boxes.php:507
+#: admin/customizer/special_boxes.php:632
+#: admin/customizer/special_boxes.php:813
+msgid "Turn on"
+msgstr ""
+
+#: admin/customizer/posts_slider.php:30
+msgid "Type of slider:"
+msgstr ""
+
+#: admin/customizer/posts_slider.php:35
+msgid "1 post per slide"
+msgstr ""
+
+#: admin/customizer/posts_slider.php:36
+msgid "3 posts per slide"
+msgstr ""
+
+#: admin/customizer/posts_slider.php:45 admin/customizer/posts_slider.php:52
+msgid "1"
+msgstr ""
+
+#: admin/customizer/posts_slider.php:50
+msgid "Number of posts in slider"
+msgstr ""
+
+#: admin/customizer/posts_slider.php:69
+msgid "Auto play"
+msgstr ""
+
+#: admin/customizer/posts_slider.php:85 admin/customizer/single_posts.php:42
+#: admin/metaboxes/custom-fields.php:201
+msgid "Show category"
+msgstr ""
+
+#: admin/customizer/posts_slider.php:101 admin/customizer/single_posts.php:57
+#: admin/metaboxes/custom-fields.php:209
+msgid "Show date"
+msgstr ""
+
+#: admin/customizer/posts_slider.php:117
+msgid "Show author"
+msgstr ""
+
+#: admin/customizer/posts_slider.php:128 admin/customizer/posts_slider.php:135
+#: admin/customizer/special_boxes.php:699
+#: admin/customizer/special_boxes.php:706
+msgid "6"
+msgstr ""
+
+#: admin/customizer/posts_slider.php:133 admin/customizer/special_boxes.php:704
+msgid "Post title word count:"
+msgstr ""
+
+#: admin/customizer/posts_slider.php:152
+msgid "Overlay color"
+msgstr ""
+
+#: admin/customizer/posts_slider.php:162 admin/customizer/posts_slider.php:169
+msgid "15"
+msgstr ""
+
+#: admin/customizer/posts_slider.php:167
+msgid "Overlay opacity (in percents)"
+msgstr ""
+
+#: admin/customizer/posts_slider.php:186
+msgid "Include grain effect"
+msgstr ""
+
+#: admin/customizer/single_posts.php:12
+msgid "Force global settings on all single posts"
+msgstr ""
+
+#: admin/customizer/single_posts.php:29
+msgid "Hide sidebar"
+msgstr ""
+
+#: admin/customizer/single_posts.php:72 admin/metaboxes/custom-fields.php:217
+msgid "Show comments count"
+msgstr ""
+
+#: admin/customizer/single_posts.php:87 admin/metaboxes/custom-fields.php:225
+msgid "Show author's name"
+msgstr ""
+
+#: admin/customizer/single_posts.php:94 admin/customizer/single_posts.php:103
+#: inc/template-tags.php:1205 inc/template-tags.php:1211
+#: inc/template-tags.php:1370 inc/template-tags.php:1376
+#: template-parts/fullheader.php:240 template-parts/fullheader.php:247
+#: template-parts/fullheader.php:257 template-parts/fullheader.php:264
+#: template-parts/fullheader.php:275 template-parts/fullheader.php:281
+msgid "Posted by"
+msgstr ""
+
+#: admin/customizer/single_posts.php:101
+msgid "Text before author's name"
+msgstr ""
+
+#: admin/customizer/single_posts.php:119 admin/metaboxes/custom-fields.php:173
+msgid "Hide featured image"
+msgstr ""
+
+#: admin/customizer/single_posts.php:134
+msgid "Drop caps"
+msgstr ""
+
+#: admin/customizer/single_posts.php:149 admin/metaboxes/custom-fields.php:157
+msgid "Enlarge galleries"
+msgstr ""
+
+#: admin/customizer/single_posts.php:164 admin/metaboxes/custom-fields.php:165
+msgid "Enlarge embedded media"
+msgstr ""
+
+#: admin/customizer/single_posts.php:179
+msgid "Disable Daze gallery slider"
+msgstr ""
+
+#: admin/customizer/single_posts.php:180
+msgid ""
+"Check this if you want to use the native wp gallery or some custom gallery "
+"plugin"
+msgstr ""
+
+#: admin/customizer/single_posts.php:195
+msgid "Show tagcloud in post footer"
+msgstr ""
+
+#: admin/customizer/single_posts.php:210
+msgid "Show author info under the post"
+msgstr ""
+
+#: admin/customizer/single_posts.php:225
+msgid "Disable WP comments"
+msgstr ""
+
+#: admin/customizer/site_header.php:13
+msgid "Site logo"
+msgstr ""
+
+#: admin/customizer/site_header.php:25
+msgid "Logo position in header"
+msgstr ""
+
+#: admin/customizer/site_header.php:26
+msgid "desktop view"
+msgstr ""
+
+#: admin/customizer/site_header.php:31
+msgid "Above the main menu"
+msgstr ""
+
+#: admin/customizer/site_header.php:32
+msgid "Bellow the main menu"
+msgstr ""
+
+#: admin/customizer/site_header.php:33
+msgid "Left to the main menu"
+msgstr ""
+
+#: admin/customizer/site_header.php:34
+msgid "Right to the main menu"
+msgstr ""
+
+#: admin/customizer/site_header.php:46
+msgid "Logo links to:"
+msgstr ""
+
+#: admin/customizer/site_header.php:47
+msgid "Leave blank to keep default (site homepage)"
+msgstr ""
+
+#: admin/customizer/site_header.php:61
+msgid "Upload logo"
+msgstr ""
+
+#: admin/customizer/site_header.php:74
+msgid "Upload retina logo"
+msgstr ""
+
+#: admin/customizer/site_header.php:76 admin/customizer/site_header.php:103
+msgid "Has to be twice the size of a regular photo."
+msgstr ""
+
+#: admin/customizer/site_header.php:88
+msgid "Upload mobile logo"
+msgstr ""
+
+#: admin/customizer/site_header.php:101
+msgid "Upload mobile retina logo"
+msgstr ""
+
+#: admin/customizer/site_header.php:113 admin/customizer/site_header.php:121
+msgid "42"
+msgstr ""
+
+#: admin/customizer/site_header.php:118
+msgid "Font size (px) for site title in header (desktop view):"
+msgstr ""
+
+#: admin/customizer/site_header.php:119
+msgid "if no desktop logo is provided"
+msgstr ""
+
+#: admin/customizer/site_header.php:132 admin/customizer/site_header.php:140
+msgid "24"
+msgstr ""
+
+#: admin/customizer/site_header.php:137
+msgid "Font size (px) for site title in top bar (mobile view):"
+msgstr ""
+
+#: admin/customizer/site_header.php:138
+msgid "if no desktop nor mobile logo is provided"
+msgstr ""
+
+#: admin/customizer/site_header.php:155
+msgid "Search button"
+msgstr ""
+
+#: admin/customizer/site_header.php:167
+msgid "Search button text"
+msgstr ""
+
+#: admin/customizer/site_header.php:180 admin/customizer/site_header.php:187
+#: searchform.php:6
+msgid "Type your search"
+msgstr ""
+
+#: admin/customizer/site_header.php:185
+msgid "Search field placeholder"
+msgstr ""
+
+#: admin/customizer/site_header.php:203
+msgid "Show in top bar"
+msgstr ""
+
+#: admin/customizer/site_header.php:218
+msgid "Show in mobile menu bar"
+msgstr ""
+
+#: admin/customizer/site_header.php:233
+msgid "Show in main menu"
+msgstr ""
+
+#: admin/customizer/site_identity.php:15
+msgid "Show tagline"
+msgstr ""
+
+#: admin/customizer/site_identity.php:28
+msgid "Copyright"
+msgstr ""
+
+#: admin/customizer/site_identity.php:44
+msgid "Site title"
+msgstr ""
+
+#: admin/customizer/site_identity.php:45
+msgid "Favicon"
+msgstr ""
+
+#: admin/customizer/site_identity.php:46
+msgid "Favicon must be square and at least 512px wide and tall."
+msgstr ""
+
+#: admin/customizer/social_sharing.php:14
+msgid "My social profiles"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:21
+#: admin/customizer/social_sharing.php:30
+msgid "Connect with me"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:28
+msgid "Heading for social links (in top bar):"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:46
+msgid "Show the social links in top bar"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:61
+msgid "Show the social links in footer"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:75
+msgid "Sharing options"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:86
+msgid "Show the share buttons"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:100
+msgid "Choose the networks you want enable for sharing"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:107
+#: admin/customizer/social_sharing.php:116 inc/template-tags.php:1420
+msgid "Share this"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:114
+msgid "Text before share buttons"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:132
+msgid "Include Open Graph meta tags"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:146
+msgid "Default image for Open Graph"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:159
+msgid "Twitter share selection"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:177
+#: admin/customizer/social_sharing.php:186 inc/scripts-register.php:224
+msgid "Tweet this"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:184
+msgid "Custom title"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:201
+msgid "FB Comments"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:212
+msgid "Allow login with Facebook to comment"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:213
+msgid ""
+"Applies globally to single posts only. For each single page, go to Edit Page "
+"and use their own options."
+msgstr ""
+
+#: admin/customizer/social_sharing.php:227
+msgid "API keys"
+msgstr ""
+
+#: admin/customizer/social_sharing.php:237
+msgid "Google Maps"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:11
+msgid ""
+"NOTE: All of the special boxes are now also available as special widgets! "
+"Check out the Appearance -> Widgets screen to see this new feature."
+msgstr ""
+
+#: admin/customizer/special_boxes.php:23
+msgid "Banner Ad"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:49 admin/customizer/special_boxes.php:144
+#: admin/customizer/special_boxes.php:239
+#: admin/customizer/special_boxes.php:334
+#: admin/customizer/special_boxes.php:429
+#: admin/customizer/special_boxes.php:522
+#: admin/customizer/special_boxes.php:647
+#: admin/customizer/special_boxes.php:828 inc/filters-and-hooks.php:773
+msgid "Starting position:"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:68 admin/customizer/special_boxes.php:163
+#: admin/customizer/special_boxes.php:258
+#: admin/customizer/special_boxes.php:353
+#: admin/customizer/special_boxes.php:448
+#: admin/customizer/special_boxes.php:541
+#: admin/customizer/special_boxes.php:666
+#: admin/customizer/special_boxes.php:847
+msgid "Repeat on every x posts:"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:86 admin/customizer/special_boxes.php:181
+#: admin/customizer/special_boxes.php:276
+#: admin/customizer/special_boxes.php:371
+#: admin/customizer/special_boxes.php:466 admin/metaboxes/custom-fields.php:542
+#: admin/users/custom-fields.php:33
+msgid "Upload image"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:101
+#: admin/customizer/special_boxes.php:196
+#: admin/customizer/special_boxes.php:291
+#: admin/customizer/special_boxes.php:386
+#: admin/customizer/special_boxes.php:481
+msgid "Image Link"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:117
+#: admin/customizer/special_boxes.php:212
+#: admin/customizer/special_boxes.php:307
+#: admin/customizer/special_boxes.php:402
+msgid "Add another banner"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:131
+msgid "Banner Ad 2"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:226
+msgid "Banner Ad 3"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:321
+msgid "Banner Ad 4"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:416
+msgid "Banner Ad 5"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:496
+msgid "Social links box"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:555
+#: admin/customizer/special_boxes.php:562 admin/widgets/social.php:68
+#: inc/template-tags.php:2094
+msgid "Follow me"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:560 admin/widgets/social.php:75
+msgid "Short description:"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:586
+#: admin/customizer/special_boxes.php:593 admin/widgets/social.php:69
+#: inc/template-tags.php:2095
+msgid "Connect"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:591 admin/widgets/social.php:84
+msgid "Heading:"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:621
+msgid "Popular/Latest posts"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:685
+#: admin/customizer/special_boxes.php:866
+msgid "Number of posts:"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:723
+msgid "Show Popular"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:739
+msgid "Show Latest"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:755
+msgid "Hide views"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:771 admin/widgets/top-posts.php:329
+msgid "Hide comments count"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:787 admin/widgets/top-posts.php:385
+msgid "Hide date"
+msgstr ""
+
+#: admin/customizer/special_boxes.php:802
+msgid "Latest comments"
+msgstr ""
+
+#: admin/customizer/sticky_banner.php:14
+msgid "Sticky banner image"
+msgstr ""
+
+#: admin/customizer/sticky_banner.php:47
+msgid "Sticky banner links to:"
+msgstr ""
+
+#: admin/customizer/sticky_banner.php:56 admin/customizer/sticky_banner.php:66
+msgid "78"
+msgstr ""
+
+#: admin/customizer/sticky_banner.php:63
+msgid "Banner height (px)"
+msgstr ""
+
+#: admin/customizer/sticky_banner.php:64
+msgid ""
+"Image will be resized to the chosen height, while keeping its original ratio."
+msgstr ""
+
+#: admin/customizer/sticky_banner.php:83
+msgid "Sticky banner position"
+msgstr ""
+
+#: admin/customizer/sticky_banner.php:84
+msgid "The image will be placed at the chosen corner of the site frame."
+msgstr ""
+
+#: admin/customizer/sticky_banner.php:89
+msgid "Bottom right"
+msgstr ""
+
+#: admin/customizer/sticky_banner.php:90
+msgid "Bottom left"
+msgstr ""
+
+#: admin/customizer/sticky_banner.php:104
+msgid "Add a close button"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:64
+msgid "Layout"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:81
+msgid "Visibility"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:90
+msgid "Ignore global settings"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:99
+msgid "Custom Post Link"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:115
+msgid "Sections"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:149
+msgid "Apply drop caps"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:181
+msgid "Allow Facebook comments"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:233
+msgid "Show tagcloud"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:238
+msgid "Posts slider"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:247
+msgid "Show in posts slider"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:269
+msgid "Upload image for the slider"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:275 admin/metaboxes/custom-fields.php:311
+#: admin/metaboxes/custom-fields.php:548 admin/users/custom-fields.php:39
+msgid "Remove image"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:279
+msgid ""
+"If no image is uploaded for the slider, featured image will be used. "
+"Recommended size is 1820x682 (px)."
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:284
+msgid "Featured image for posts list"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:305
+msgid "Upload image for the list"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:315
+msgid "If no image is uploaded for the list, featured image will be used."
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:334
+msgid ""
+"Check this to give the above options priority over the global \"Daze single "
+"posts\" settings in Customizer"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:347
+msgid "URL:"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:360 admin/widgets/image-widget.php:93
+msgid "Open link in new tab"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:392
+msgid "Show posts slider on this page"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:397
+msgid "Daze page header"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:406
+msgid "Hide title on this page"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:411
+msgid "Contact form"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:414 admin/metaboxes/custom-fields.php:434
+#: admin/metaboxes/custom-fields.php:485
+msgid "Heading"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:421
+msgid "Shortcode"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:431
+msgid "Contact photo"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:453 admin/metaboxes/custom-fields.php:526
+#: admin/widgets/author.php:146 admin/widgets/image-widget.php:106
+msgid "Image URL:"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:469 admin/widgets/author.php:163
+#: admin/widgets/image-widget.php:123
+msgid "Upload Image"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:475 admin/widgets/author.php:168
+#: admin/widgets/image-widget.php:128
+msgid "Remove Image"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:482
+msgid "Contact map"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:492
+msgid "Latitude"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:499
+msgid "Longitude"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:506
+msgid "Full Address"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:514
+msgid "Map marker"
+msgstr ""
+
+#: admin/metaboxes/custom-fields.php:552
+msgid "Marker title"
+msgstr ""
+
+#: admin/users/custom-fields.php:13
+msgid "User image"
+msgstr ""
+
+#: admin/users/custom-fields.php:42
+msgid "If no image is uploaded, gravatar will be used."
+msgstr ""
+
+#: admin/users/custom-fields.php:47
+msgid "Show user image in author's archive header"
+msgstr ""
+
+#: admin/users/custom-fields.php:52
+msgid "Show user image near author's name on blog and single posts"
+msgstr ""
+
+#: admin/welcome/welcome.php:10 admin/welcome/welcome.php:11
+msgid "Welcome to Daze"
+msgstr ""
+
+#: admin/welcome/welcome.php:30
+msgid "Welcome to Daze 4.1"
+msgstr ""
+
+#: admin/welcome/welcome.php:31
+msgid "By NordWood Themes"
+msgstr ""
+
+#: admin/welcome/welcome.php:41
+msgid "Hello"
+msgstr ""
+
+#: admin/welcome/welcome.php:46
+msgid ""
+"We added this panel so you can have a quick overview on theme new options. "
+"We hope you're gonna enjoy Daze even more now :)"
+msgstr ""
+
+#: admin/welcome/welcome.php:47
+msgid "So, here's what's new since Daze 3.0:"
+msgstr ""
+
+#: admin/welcome/welcome.php:51
+msgid "Daze 4.1"
+msgstr ""
+
+#: admin/welcome/welcome.php:56
+msgid ""
+"Daze Featured Area fields are moved down below the main editor, so they can "
+"work with the new WordPress editor."
+msgstr ""
+
+#: admin/welcome/welcome.php:57
+msgid ""
+"Search button in top bar is now optional for mobile views as well. This "
+"option can be found in Customizer, under"
+msgstr ""
+
+#: admin/welcome/welcome.php:57
+msgid "Daze header & top bar section"
+msgstr ""
+
+#: admin/welcome/welcome.php:58
+msgid "Fixed: Spare gap in page header, when the page title is hidden."
+msgstr ""
+
+#: admin/welcome/welcome.php:59
+msgid "Minor security fixes in widgets and Popout pages"
+msgstr ""
+
+#: admin/welcome/welcome.php:64
+msgid "Daze 4.0"
+msgstr ""
+
+#: admin/welcome/welcome.php:68
+msgid "Authors"
+msgstr ""
+
+#: admin/welcome/welcome.php:70
+msgid "Each user can now have a custom image uploaded via"
+msgstr ""
+
+#: admin/welcome/welcome.php:70
+msgid "User profile panel"
+msgstr ""
+
+#: admin/welcome/welcome.php:70
+msgid ""
+"to appear instead of default WP avatar. You will also find additional "
+"options to display the image near author's name and/or on author's archive "
+"page."
+msgstr ""
+
+#: admin/welcome/welcome.php:74
+msgid "Site optimization"
+msgstr ""
+
+#: admin/welcome/welcome.php:76
+msgid ""
+"We added a few options that can be of great help for decreasing the site "
+"loading time and you can find them in the new Customizer's section, named"
+msgstr ""
+
+#: admin/welcome/welcome.php:76
+msgid ""
+"To get more useful info on how to improve site performance, please read the "
+"documentation provided with Daze."
+msgstr ""
+
+#: admin/welcome/welcome.php:80
+msgid "Other improvements"
+msgstr ""
+
+#: admin/welcome/welcome.php:83
+msgid "Option to hide likes and comments on Instagram widgets"
+msgstr ""
+
+#: admin/welcome/welcome.php:84
+msgid "Removed dynamic inline styles, when they match the default values"
+msgstr ""
+
+#: admin/welcome/welcome.php:85
+msgid ""
+"Modified category/tag description filters, that were causing issues with "
+"some page builders"
+msgstr ""
+
+#: admin/welcome/welcome.php:86
+msgid ""
+"Updated scripts for Facebook SDK, Masonry, ImagesLoaded and Slick slider "
+"assets."
+msgstr ""
+
+#: admin/welcome/welcome.php:91
+msgid "Daze 3.0.1"
+msgstr ""
+
+#: admin/welcome/welcome.php:94
+msgid ""
+"Instagram widgets adjusted to be compatible with the recent Instagram update"
+msgstr ""
+
+#: admin/welcome/welcome.php:99
+msgid "Daze 3.0"
+msgstr ""
+
+#: admin/welcome/welcome.php:103
+msgid "Six additional sidebars"
+msgstr ""
+
+#: admin/welcome/welcome.php:105
+msgid ""
+"More sidebar areas for your ads, or widgets per choice! One of those is "
+"\"Special\" - check out the following features ;)"
+msgstr ""
+
+#: admin/welcome/welcome.php:109
+msgid "Special Widgets"
+msgstr ""
+
+#: admin/welcome/welcome.php:111
+msgid ""
+"Two widgets are new (\"Daze popout widget\" and \"Daze social widget\"), but "
+"many became \"special\"."
+msgstr ""
+
+#: admin/welcome/welcome.php:112
+msgid ""
+"Our \"Special Boxes\" for masonry layout are now extended to support any "
+"number of Special Widgets! Find out more about this in the"
+msgstr ""
+
+#: admin/welcome/welcome.php:112
+msgid "Widgets panel"
+msgstr ""
+
+#: admin/welcome/welcome.php:116
+msgid "Extended set of share icons"
+msgstr ""
+
+#: admin/welcome/welcome.php:118
+msgid ""
+"Now you can choose which sharing buttons you want to show on posts and there "
+"are more than 20 networks available in the "
+msgstr ""
+
+#: admin/welcome/welcome.php:118
+msgid "Daze social section"
+msgstr ""
+
+#: admin/welcome/welcome.php:122
+msgid "Daze Custom Login Page plugin"
+msgstr ""
+
+#: admin/welcome/welcome.php:124
+msgid ""
+"Yep, WP login page no longer has to be so dull. Select your own background "
+"image and colors, and paint it as you like. All the controls are now "
+"available in the Customizer - if you have this plugin activated, the section "
+"will show up."
+msgstr ""
+
+#: admin/welcome/welcome.php:128
+msgid "Minor additional options"
+msgstr ""
+
+#: admin/welcome/welcome.php:131
+msgid "Hide page title (Edit Page)"
+msgstr ""
+
+#: admin/welcome/welcome.php:132
+msgid "Link to author's archive on Daze author widget"
+msgstr ""
+
+#: admin/welcome/welcome.php:133
+msgid "Close sticky banner (Customizer -> Daze Sticky Banner)"
+msgstr ""
+
+#: admin/welcome/welcome.php:138
+msgid "Fixed issues"
+msgstr ""
+
+#: admin/welcome/welcome.php:141
+msgid "Mobile menu overlay being cut at the bottom"
+msgstr ""
+
+#: admin/welcome/welcome.php:142
+msgid "Padding in Popular/Latest special box"
+msgstr ""
+
+#: admin/welcome/welcome.php:143
+msgid ""
+"The author box (on single posts) appearing while its checkbox is turned off"
+msgstr ""
+
+#: admin/welcome/welcome.php:153
+msgid "Social Media Pack now compatible with Daze"
+msgstr ""
+
+#: admin/welcome/welcome.php:155
+msgid ""
+"Want to run a marketing campaign for your brand, or promote your recent "
+"posts?"
+msgstr ""
+
+#: admin/welcome/welcome.php:157
+msgid "Daze Social Media"
+msgstr ""
+
+#: admin/welcome/welcome.php:157
+msgid ""
+"comes with an outstanding pack of banners for sales and discounts, new "
+"arrivals, event announcements, quotes, galleries and more!"
+msgstr ""
+
+#: admin/widgets/author.php:18
+msgid "Info about the site owner"
+msgstr ""
+
+#: admin/widgets/author.php:21
+msgid "Daze author widget"
+msgstr ""
+
+#: admin/widgets/author.php:45 admin/widgets/author.php:107
+msgid "About me"
+msgstr ""
+
+#: admin/widgets/author.php:117 admin/widgets/instagram-carousel.php:194
+#: admin/widgets/instagram-grid.php:172 admin/widgets/latest-comments.php:114
+#: admin/widgets/tagcloud.php:100
+msgid "Title:"
+msgstr ""
+
+#: admin/widgets/author.php:126
+msgid "Info:"
+msgstr ""
+
+#: admin/widgets/author.php:173
+msgid ""
+"Add the author's nickname if you want to link the image to author's archive."
+msgstr ""
+
+#: admin/widgets/author.php:176
+msgid "Nickname:"
+msgstr ""
+
+#: admin/widgets/facebook-badge.php:17
+msgid "Show facebook profile badge"
+msgstr ""
+
+#: admin/widgets/facebook-badge.php:20
+msgid "Daze Facebook widget"
+msgstr ""
+
+#: admin/widgets/facebook-badge.php:42
+msgid "NordWoodThemes"
+msgstr ""
+
+#: admin/widgets/facebook-badge.php:74
+msgid "FB page name:"
+msgstr ""
+
+#: admin/widgets/facebook-badge.php:88
+msgid "Make header smaller"
+msgstr ""
+
+#: admin/widgets/facebook-badge.php:97
+msgid "Hide cover"
+msgstr ""
+
+#: admin/widgets/facebook-badge.php:106
+msgid "Show facepile"
+msgstr ""
+
+#: admin/widgets/facebook-badge.php:115
+msgid "Show timeline"
+msgstr ""
+
+#: admin/widgets/facebook-badge.php:124
+msgid "Show events"
+msgstr ""
+
+#: admin/widgets/facebook-badge.php:133
+msgid "Show messages"
+msgstr ""
+
+#: admin/widgets/image-widget.php:18
+msgid "Single image banner"
+msgstr ""
+
+#: admin/widgets/image-widget.php:21
+msgid "Daze image widget"
+msgstr ""
+
+#: admin/widgets/image-widget.php:79
+msgid "Link URL:"
+msgstr ""
+
+#: admin/widgets/instagram-carousel.php:18 admin/widgets/instagram-grid.php:18
+msgid "Show Instagram feed"
+msgstr ""
+
+#: admin/widgets/instagram-carousel.php:21
+msgid "Daze Instagram carousel"
+msgstr ""
+
+#: admin/widgets/instagram-carousel.php:60
+#: admin/widgets/instagram-carousel.php:159 admin/widgets/instagram-grid.php:48
+#: admin/widgets/instagram-grid.php:137
+msgid "Follow me on Instagram"
+msgstr ""
+
+#: admin/widgets/instagram-carousel.php:177
+#: admin/widgets/instagram-grid.php:155
+msgid "Oops, something went wrong: "
+msgstr ""
+
+#: admin/widgets/instagram-carousel.php:184
+#: admin/widgets/instagram-grid.php:162
+msgid "Username field is empty."
+msgstr ""
+
+#: admin/widgets/instagram-carousel.php:189
+#: admin/widgets/instagram-grid.php:167
+msgid "No such profile found."
+msgstr ""
+
+#: admin/widgets/instagram-carousel.php:203
+#: admin/widgets/instagram-grid.php:181
+msgid "Instagram username:"
+msgstr ""
+
+#: admin/widgets/instagram-carousel.php:217
+#: admin/widgets/instagram-grid.php:195
+msgid "Number of items"
+msgstr ""
+
+#: admin/widgets/instagram-carousel.php:226
+#: admin/widgets/instagram-grid.php:204
+msgid "Show likes & comments count"
+msgstr ""
+
+#: admin/widgets/instagram-grid.php:21
+msgid "Daze Instagram grid"
+msgstr ""
+
+#: admin/widgets/latest-comments.php:18
+msgid "Show recently commented posts"
+msgstr ""
+
+#: admin/widgets/latest-comments.php:21
+msgid "Daze latest comments"
+msgstr ""
+
+#: admin/widgets/latest-comments.php:41 admin/widgets/latest-comments.php:108
+msgid "Latest Comments"
+msgstr ""
+
+#: admin/widgets/latest-comments.php:82 inc/scripts-register.php:17
+msgid "on"
+msgstr ""
+
+#: admin/widgets/latest-comments.php:128 admin/widgets/top-posts.php:311
+msgid "Number of posts"
+msgstr ""
+
+#: admin/widgets/popout.php:17
+msgid "Widget with a link to popoutout page."
+msgstr ""
+
+#: admin/widgets/popout.php:20
+msgid "Daze Popout Widget"
+msgstr ""
+
+#: admin/widgets/popout.php:119
+msgid ""
+"Oops! It seems like you don't have any Popout page yet. Click on the link "
+"below to create a popout."
+msgstr ""
+
+#: admin/widgets/popout.php:121
+msgid "Add Popout Page"
+msgstr ""
+
+#: admin/widgets/popout.php:129
+msgid "Popout page"
+msgstr ""
+
+#: admin/widgets/popout.php:148
+msgid "Popout link title:"
+msgstr ""
+
+#: admin/widgets/popout.php:153
+msgid "Check this out"
+msgstr ""
+
+#: admin/widgets/social.php:18
+msgid "Links to social profiles"
+msgstr ""
+
+#: admin/widgets/social.php:21
+msgid "Daze social widget"
+msgstr ""
+
+#: admin/widgets/tagcloud.php:17
+msgid "Cloud of the most used tags"
+msgstr ""
+
+#: admin/widgets/tagcloud.php:20
+msgid "Daze tagcloud"
+msgstr ""
+
+#: admin/widgets/tagcloud.php:37 admin/widgets/tagcloud.php:94
+msgid "Tags"
+msgstr ""
+
+#: admin/widgets/tagcloud.php:109
+msgid "Number of tags:"
+msgstr ""
+
+#: admin/widgets/top-posts.php:18
+msgid "Shows the latest and most viewed posts"
+msgstr ""
+
+#: admin/widgets/top-posts.php:21
+msgid "Daze popular/latest posts"
+msgstr ""
+
+#: admin/widgets/top-posts.php:56 admin/widgets/top-posts.php:296
+#: admin/widgets/top-posts.php:347 inc/template-tags.php:2140
+msgid "Popular"
+msgstr ""
+
+#: admin/widgets/top-posts.php:57 admin/widgets/top-posts.php:297
+#: admin/widgets/top-posts.php:375 inc/template-tags.php:2138
+msgid "Latest"
+msgstr ""
+
+#: admin/widgets/top-posts.php:320
+msgid "Post title word count"
+msgstr ""
+
+#: admin/widgets/top-posts.php:338
+msgid "Show popular posts"
+msgstr ""
+
+#: admin/widgets/top-posts.php:342
+msgid "Title for the most visited posts:"
+msgstr ""
+
+#: admin/widgets/top-posts.php:357
+msgid "Hide post views"
+msgstr ""
+
+#: admin/widgets/top-posts.php:366
+msgid "Show latest posts"
+msgstr ""
+
+#: admin/widgets/top-posts.php:370
+msgid "Title for the most recent posts:"
+msgstr ""
+
+#: archive.php:27
+msgid "Archive"
+msgstr ""
+
+#: author.php:27
+msgid "Author:"
+msgstr ""
+
+#: category.php:85
+msgid "Category:"
+msgstr ""
+
+#: comments.php:21
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:24
+msgid "No comments yet. Be the first one to leave a thought."
+msgstr ""
+
+#: comments.php:70 comments.php:73
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:79 comments.php:82
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:90
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:93
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: comments.php:94
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:95
+msgid "Post a comment"
+msgstr ""
+
+#: comments.php:102
+msgid "Your name"
+msgstr ""
+
+#: comments.php:107
+msgid "Your E-mail address"
+msgstr ""
+
+#: comments.php:113
+msgid "Your website"
+msgstr ""
+
+#: comments.php:120
+msgid "Enter your comment here"
+msgstr ""
+
+#: date.php:30
+msgid "Year:"
+msgstr ""
+
+#: date.php:31
+msgid "Y"
+msgstr ""
+
+#: date.php:37
+msgid "Month:"
+msgstr ""
+
+#: date.php:38
+msgid "F Y"
+msgstr ""
+
+#: date.php:44
+msgid "Day:"
+msgstr ""
+
+#: date.php:45
+msgid "F j, Y"
+msgstr ""
+
+#: date.php:51
+msgid "Archive:"
+msgstr ""
+
+#: functions.php:54
+msgid "Daze Featured Area"
+msgstr ""
+
+#: functions.php:66
+msgid "Daze Pop-out pages"
+msgstr ""
+
+#: functions.php:78
+msgid "Daze Custom Login Page"
+msgstr ""
+
+#: functions.php:159 header.php:39 header.php:176
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:160 header.php:65 header.php:114
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:217
+msgid "1. Main sidebar"
+msgstr ""
+
+#: functions.php:219
+msgid "Drag in the widgets you want to appear in the main sidebar."
+msgstr ""
+
+#: functions.php:227
+msgid "2. Site header"
+msgstr ""
+
+#: functions.php:229
+msgid "Drag in the widgets you want to appear above the site header."
+msgstr ""
+
+#: functions.php:237
+msgid "3. Top of blog"
+msgstr ""
+
+#: functions.php:239
+msgid "Drag in the widgets you want to appear above the posts list."
+msgstr ""
+
+#: functions.php:247
+msgid "4. Footer Instagram area"
+msgstr ""
+
+#: functions.php:249
+msgid ""
+"Drag in the widgets you want to appear above the site footer. (Best for "
+"Instagram Carousel)"
+msgstr ""
+
+#: functions.php:257
+msgid "5. Single post header"
+msgstr ""
+
+#: functions.php:259
+msgid "Drag in the widgets you want to appear in the header of single posts."
+msgstr ""
+
+#: functions.php:267
+msgid "6. Single post footer"
+msgstr ""
+
+#: functions.php:269
+msgid "Drag in the widgets you want to appear in the footer of single posts."
+msgstr ""
+
+#: functions.php:277
+msgid "7. Site footer"
+msgstr ""
+
+#: functions.php:279
+msgid "Drag in the widgets you want to appear at the bottom of site footer."
+msgstr ""
+
+#: functions.php:287
+msgid "Specials"
+msgstr ""
+
+#: functions.php:289
+msgid "Drag in the widgets you want to appear in masonry list on blog page."
+msgstr ""
+
+#: inc/back-compat.php:31 inc/back-compat.php:41 inc/back-compat.php:59
+#, php-format
+msgid ""
+"Daze requires at least WordPress version 4.5. You are running version %s. "
+"Please upgrade and try again."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:912
+#: inc/class-tgm-plugin-activation.php:2618
+#: inc/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1019
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1206
+#: inc/class-tgm-plugin-activation.php:3033
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/filters-and-hooks.php:53
+msgid "Extra large"
+msgstr ""
+
+#: inc/filters-and-hooks.php:301 inc/filters-and-hooks.php:433
+msgid "Featured Image"
+msgstr ""
+
+#: inc/filters-and-hooks.php:330
+msgid "Slider image"
+msgstr ""
+
+#: inc/filters-and-hooks.php:405
+msgid "Image in posts list"
+msgstr ""
+
+#: inc/filters-and-hooks.php:463 inc/filters-and-hooks.php:489
+msgid "ID"
+msgstr ""
+
+#: inc/filters-and-hooks.php:504
+msgid "Photo"
+msgstr ""
+
+#: inc/filters-and-hooks.php:534 inc/filters-and-hooks.php:549
+#: template-parts/content-excerpt.php:47
+msgid "Read More"
+msgstr ""
+
+#: inc/filters-and-hooks.php:771
+msgid "Loop"
+msgstr ""
+
+#: inc/filters-and-hooks.php:782
+msgid "Repeat on:"
+msgstr ""
+
+#: inc/scripts-register.php:531
+msgid "Special widgets"
+msgstr ""
+
+#: inc/scripts-register.php:532
+msgid ""
+"The widgets from this field will appear among the posts on blog page with "
+"masonry layout. Use the two additional fields to control their positions."
+msgstr ""
+
+#: inc/scripts-register.php:533
+msgid ""
+"Though other widgets may work as well, those signed with &#9733; are marked "
+"as being fully compatible and best candidates for this feature."
+msgstr ""
+
+#: inc/scripts-register.php:538
+msgid "Sidebar areas"
+msgstr ""
+
+#: inc/scripts-register.php:539
+msgid ""
+"Drag the widgets to the sidebars above, in which you want them to appear."
+msgstr ""
+
+#: inc/scripts-register.php:540
+msgid "Adsense code can be included via 'Custom HTML' widget."
+msgstr ""
+
+#: inc/scripts-register.php:543
+msgid "Posts list"
+msgstr ""
+
+#: inc/scripts-register.php:546
+msgid "Single post/page"
+msgstr ""
+
+#: inc/template-tags.php:647 inc/template-tags.php:648
+#: inc/template-tags.php:653 inc/template-tags.php:658 single.php:27
+#: single.php:33 single.php:41 single.php:45
+msgid "Previous"
+msgstr ""
+
+#: inc/template-tags.php:665 inc/template-tags.php:666
+#: inc/template-tags.php:671 inc/template-tags.php:676 single.php:54
+#: single.php:60 single.php:68 single.php:72
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:976
+msgid "Edit this post"
+msgstr ""
+
+#: inc/template-tags.php:987
+msgid "Edit this page"
+msgstr ""
+
+#: inc/template-tags.php:1024
+msgid "Reply"
+msgstr ""
+
+#: inc/template-tags.php:1032
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:1039
+msgid "Comment awaiting approval"
+msgstr ""
+
+#: inc/template-tags.php:1387
+msgid "Read more"
+msgstr ""
+
+#: search.php:115
+#, php-format
+msgid "%s search results for:"
+msgstr ""
+
+#: tag.php:27
+msgid "Tag:"
+msgstr ""
+
+#: template-parts/content-full.php:13 template-parts/content-page.php:18
+#: template-parts/content-single.php:14
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:9
+msgid "Nothing found"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Get started here"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "Sorry, there are no results for this, try something else"
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-tiny.php:130 template-parts/content-tiny.php:136
+msgid "by"
+msgstr ""

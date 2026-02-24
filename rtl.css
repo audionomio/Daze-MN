@@ -1,0 +1,248 @@
+/* =============================================
+	RTL styles
+	Daze - Premium WordPress Theme, by NordWood
+================================================ */
+	caption,
+	th,
+	td {
+		text-align: right;
+	}
+	
+	input[type="checkbox"],
+	input[type="radio"] {
+		margin-right: 0; margin-left: 0.4375em;
+	}
+	
+	.edit-link.button-link a {
+		padding: 1em 0 1em 1.5em;
+	}
+	
+	blockquote { 
+		padding: 2em 4em 2em 0;
+	}
+	
+	blockquote:before {
+		display: none;
+	}
+	
+	blockquote:after {
+		position: absolute; top: 0.14em; right: 0;
+		font-size: 6em; color: #d6d6d6; content:"\201D";
+	}
+	
+	blockquote cite:before,
+	blockquote small:before {
+		display: none;
+	}
+	
+	blockquote cite:after,
+	blockquote small:after {
+		content: "\2014\00a0";
+	}
+	
+	#main .drop-caps .post-content > p:first-of-type:first-letter {
+		float: right; margin: 0.3em 0 0 0.4em;
+	}
+	
+	.comments-cloud {
+		margin-right: 0; margin-left: 0.5em;
+	}
+	
+	.top-bar.mobile .main-menu li {
+		float: right; text-align: right;
+	}
+	
+	.top-bar.mobile .main-menu li:nth-child(odd) {
+		clear: right;
+	}
+	
+	.top-bar.mobile .main-menu li.menu-item-has-children svg {
+		right: auto; left: 1em;
+	}
+	
+	.top-bar.mobile .social a {
+		display: inline-block; margin: 0 2em;
+	}
+	
+	.top-bar.mobile .social a:first-child {
+		margin-left: 2em; margin-right: 0;
+	}
+	
+	.top-bar.mobile .social a:last-child {
+		margin-right: 2em; margin-left: 0;
+	}
+	
+	.top-bar.mobile .site-logo {
+		float: right;
+		text-align: right;
+	}
+	
+	.top-bar.mobile .search-form {
+		right: 15px;
+		left: auto;
+	}
+	
+	.top-bar.mobile .menu-button {
+		float: left;
+		margin-top: 8px;
+	}
+	
+	.top-bar.mobile .search-button {
+		float: left;
+	}
+	
+	.page-links h6 + a .page-num,
+	.page-links h6 + .page-num {
+		padding-left: 1em; padding-right: 0;
+	}
+	
+	#sidebar .widget {
+		text-align: right;
+	}
+	
+	.widget-title .icon {
+		margin-right: 0; margin-left: 10px;
+	}
+	
+	.widget .cat-item a {
+		float: right;
+	}
+	
+	.widget .cat-item .count {
+		margin-left: 0; margin-right: 0.5em;
+	}
+	
+	.widget .search-submit {
+		position: absolute; top: 0; right: auto; left: 0.6em; z-index: 9;
+		background: none; border: none; height: 100%;
+	}
+	
+	.widget_calendar td#today:after {
+		right: auto; left: 0;
+	}
+	
+	.widget_calendar td#prev {
+		text-align: right;
+	}
+	
+	.widget_calendar td#next {
+		text-align: left;
+	}
+	
+	.share .heading {
+		margin-right: 0; margin-left: 0.5em;
+	}
+	
+	.share .icons {
+		text-align: right;
+	}
+	
+	#main .fb-comments {
+		text-align: right;
+	}
+	
+	.prev,
+	.next {
+		float: right;
+	}
+	
+	.next {
+		float: left; text-align: left;
+	}
+	
+	.prev .arrow {
+		margin-right: 0; margin-left: 0.5em;
+	}
+	
+	.next .arrow {
+		margin-left: 0; margin-right: 0.5em;
+	}
+
+	.post-nums li:first-child {
+		border-right: none;
+	}
+
+	.post-nums li:last-child {
+		border-right: 1px solid #e8e8e8;
+	}
+	
+	.post-nums .page-numbers.current,
+	.post-nums a.page-numbers {
+		padding: 0 1em 0 1.5em;
+	}
+	
+	.rtl .gallery-slider .slick-dots li {
+		float: right;
+	}
+	
+	.masonry-list-wrapper:not(.masonry-mini) .masonry-item .format-audio .post-header,
+	.masonry-list-wrapper:not(.masonry-mini) .masonry-item .format-video .post-header,
+	.masonry-list-wrapper:not(.masonry-mini) .masonry-item .format-gallery .post-header,
+	.masonry-list-wrapper:not(.masonry-mini) .masonry-item .format-standard .post-header {
+		text-align: right;
+	}
+	
+	#site-footer .social-title {
+		margin-right: 10px;
+		margin-left: 0;
+	}
+	
+@media only screen and (min-width:360px) {
+	.rtl .top-posts-slider .thumb {
+		float: right; margin: 0;
+	}
+	
+	.rtl .top-posts-slider .content {
+		float: left;
+		text-align: right;
+	}
+	
+	.rtl .top-posts .slick-dots {
+		text-align: right;
+	}
+}
+
+@media only screen and (min-width:768px) {
+	#main .author .avatar {
+		float: right;
+	}
+	
+	#main .author .info {
+		float: left; text-align: right;
+	}
+	
+	#main .author .info h5 {
+		text-align: right;
+	}
+	
+	.comment-form input.cfield-name {
+		float: right;
+	}
+	
+	.comment-form input.cfield-email {
+		float: left;
+	}
+}
+
+@media only screen and (min-width:1180px) {
+	.top-bar.desktop .social a {
+		margin-left: 1em;
+		margin-right: 0em;
+	}
+	
+	#sidebar {
+		text-align: right;
+	}
+	
+	.top-bar.desktop .search-button .search-text:not(:empty) {
+		margin-right: 0; margin-left: 0.5em;
+	}
+	
+	.top-bar.desktop nav li {
+		float: right;
+	}
+	
+	#site-header nav li {
+		float: right;
+	}
+}
