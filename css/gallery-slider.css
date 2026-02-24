@@ -1,0 +1,142 @@
+/* =================================================
+	Scripts for gallery slider
+	Daze - Premium WordPress Theme, by NordWood
+==================================================== */
+	.slick-slider {
+		overflow: hidden;
+	}
+
+	.slick-track {
+		margin: 0; height: 100%;
+	}
+
+	.slick-slider .slick-track,
+	.slick-slider .slick-list {
+		-webkit-transform: none;
+		   -moz-transform: none;
+			-ms-transform: none;
+			 -o-transform: none;
+				transform: none;
+	}
+	
+	.slick-prev,
+	.slick-next {
+		position: absolute; top: 50%; display: inline-block; padding: 0; cursor: pointer; z-index: 1000;
+		background: none; opacity: 0.75;
+	}
+	
+	.slick-prev:hover,
+	.slick-prev:focus,
+	.slick-next:hover,
+	.slick-next:focus {
+		opacity: 1; outline: none;
+	}
+	
+	.slick-prev.slick-disabled:before,
+	.slick-next.slick-disabled:before {
+		opacity: 0.25;
+	}
+	
+	.slick-prev,
+	[dir='rtl'] .slick-next {
+		right: auto; left: 1em;
+	}
+	
+	.slick-next,
+	[dir='rtl'] .slick-prev {
+		right: 1em; left: auto;
+	}
+	
+	ul.slick-dots,
+	ul.slick-dots li {
+		margin: 0; z-index: 1000;
+	}
+	
+	.gallery-slider {
+		clear: both; width: 100%;
+	}
+
+	.gallery-slider .slick-list {
+		margin-bottom: 1em;
+	}
+
+	.widget_media_gallery .gallery-slider .slick-list {
+		margin-bottom: 2px;
+	}
+
+	.gallery-slider .gallery-item {
+		position: relative; overflow: hidden; display: block;
+		background: #111;
+		text-align: center;
+	}
+
+	.gallery-slider .gallery-item img {
+		margin: 0 auto !important; height: 100% !important; width: auto !important; max-width: none; float: none !important;
+	}
+
+	.gallery-slider .gallery-item .caption {
+		position: absolute; z-index: 9; bottom: 0; left: 0;
+		display: inline-block; padding: 0.5em 1.5em;
+		color: #fff; font-weight: normal; font-size: 11px;
+	}
+
+	.gallery-slider .slick-prev,
+	.gallery-slider .slick-next {
+		width: 50px; height: 50px;
+		margin-top: -25px; border: 1px solid #fff;
+		text-align: center;
+	}
+
+	.widget_media_gallery .gallery-slider .slick-prev,
+	.widget_media_gallery .gallery-slider .slick-next {
+		width: 30px; height: 30px;
+		margin-top: -15px; border: 1px solid #fff;
+		text-align: center;
+	}
+
+	.gallery-slider .slick-prev svg,
+	.gallery-slider .slick-next svg {
+		display: inline-block; vertical-align: middle;
+	}
+
+	.widget_media_gallery .gallery-slider .slick-prev svg,
+	.widget_media_gallery .gallery-slider .slick-next svg {
+		width: 15px; height: 15px;
+	}
+
+	.gallery-slider .slick-prev .svg-stroke,
+	.gallery-slider .slick-next .svg-stroke {
+		stroke: #fff;
+	}
+
+	.gallery-slider .slick-dots li {
+		display: inline-block; float: left; width: 12%;
+	}
+
+	.widget_media_gallery .gallery-slider .slick-dots li {
+		width: 20%;
+	}
+
+	.gallery-slider .slick-dots a {
+		display: block; padding: 0 1px 2px; cursor: pointer;
+	}
+
+	.gallery-slider .slick-dots img {
+		display: block; width: 100%;
+	}
+
+	.gallery-slider .slick-dots li.slick-active {
+		opacity: 0.75;
+	}
+
+	@media only screen and (min-width:768px) {
+		.gallery-slider .slick-list {
+			margin-bottom: 2em;
+		}
+	}
+	
+	@media only screen and (min-width:1180px) {
+		.gallery-slider .slick-dots li {
+			width: 8%;
+		}
+	}

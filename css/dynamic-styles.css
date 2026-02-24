@@ -1,0 +1,116 @@
+/* =================================================
+	Dynamic styles
+	Daze - Premium WordPress Theme, by NordWood
+==================================================== */
+/*	Colors
+============ */
+/* Header text color */
+	#site-header .site-logo a,
+	#site-header .site-logo h1 {
+		color: #111111;
+	}
+
+/* Site frame */
+	html,
+	.top-bar.mobile .menu-overlay.active {
+		border-color: #ff2955;
+	}
+	
+/* Links */
+	input[type='submit'],
+	a.button-link,
+	.top-bar.desktop .top-menu a:hover,
+	.top-bar.desktop .top-menu a:active,
+	.search-button:hover,
+	.search-button:active,
+	.popout-content a,
+	.current-menu-item > a,
+	#site-header nav a:hover,
+	#site-header nav a:active,
+	.post-category a,
+	.masonry-item .cover-item:hover .featured-area:not(:empty) + .post-header .post-category a,
+	.no-results,
+	.error404 .post-category,
+	.post-excerpt a,
+	.post-content a,
+	.post-content li,
+	.page-links a,
+	.edit-link a,
+	.post-nums a.page-numbers,
+	.tagcloud .count,
+	.widget.latest-comments a:hover,
+	.widget.latest-comments a:active,
+	.widget .cat-item .count,
+	.widget .rsswidget,
+	.copyrights a {
+		color: #ff2955;
+	}
+	
+	.search-button:hover path,
+	.search-button:active path {
+		fill: #ff2955;
+	}
+	
+/* Other */
+	.widget_calendar td#today:after {
+		color: #ff2955;
+	}
+	
+	.masonry-list-wrapper .sticky .sticky-marker,
+	.standard-list .sticky .post-title .sticky-marker,
+	.popout-holder .popout-close:hover {
+		background: #ff2955;
+	}
+	
+	#main .drop-caps .post-content p:first-child:first-letter {
+		border-color: #ff2955;
+	}
+	
+/* Text color over background patterns */
+	.animated-bgr.search-form input[type="search"] {
+		color: #fff;
+	}
+
+/*	Animated background
+========================== */  
+	.pattern-bgr,
+	.animated-bgr {
+		background-color: #111;
+	}
+
+/*	Site frame
+================ */
+	.top-bar.mobile .menu-overlay.active,
+	html {
+		border-width: 0;
+	}
+
+/*	Site title font size for mobiles (if no logo is provided)
+============================================================== */
+	.top-bar.mobile .site-logo h1 {
+	   font-size: 24px;
+	}
+	
+	#site-header .site-logo h1 {
+	   font-size: 42px;
+	}
+	
+/*	Sticky banner
+=================== */
+	.sticky-banner img {
+		height: 78px;
+	}
+	
+	.sticky-banner {
+		right: 5px; left: auto;
+	}
+		
+@media only screen and (min-width:1180px) {
+	html {
+		border-width: 0;
+	}
+	
+	.sticky-banner {
+		right: 7px; left: auto;
+	}
+}
